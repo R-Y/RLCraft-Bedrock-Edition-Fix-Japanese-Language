@@ -4,15 +4,15 @@
     "description": "RLCraft 日本語翻訳修正パック",
     "name": "Japanese Language Fix",
     "uuid": "5ae8f7ac-5a7e-4399-bde0-13e86dd2a295",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 16, 0]
+    "version": [1, 0, 20],
+    "min_engine_version": [1, 21, 130]
   },
   "modules": [
     {
       "description": "Japanese Language Fix",
       "type": "resources",
       "uuid": "c2b6b92a-f988-4dd9-bf28-e72978f095ad",
-      "version": [1, 0, 0]
+      "version": [1, 0, 20]
     }
   ]
 }
