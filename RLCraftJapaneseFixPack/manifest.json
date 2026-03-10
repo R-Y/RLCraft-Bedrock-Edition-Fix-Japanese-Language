@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "description": "RLCraft 日本語翻訳修正パック",
+    "description": "RLCraft 日本語翻訳修正パック（非公式）",
     "name": "Japanese Language Fix",
     "uuid": "5ae8f7ac-5a7e-4399-bde0-13e86dd2a295",
     "version": [1, 0, 20],
@@ -9,7 +9,7 @@
   },
   "modules": [
     {
-      "description": "Japanese Language Fix",
+      "description": "Japanese Language Fix (Unofficial)",
       "type": "resources",
       "uuid": "c2b6b92a-f988-4dd9-bf28-e72978f095ad",
       "version": [1, 0, 20]
